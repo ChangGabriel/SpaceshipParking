@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpaceshipParking", "SpaceshipParking.csproj", "{95556CDB-A430-48AE-9301-2C752AAE9E1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceshipParkingUnitTest", "..\SpaceshipParkingUnitTest\SpaceshipParkingUnitTest.csproj", "{5533B04B-5B85-416F-876B-B238E000F655}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95556CDB-A430-48AE-9301-2C752AAE9E1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95556CDB-A430-48AE-9301-2C752AAE9E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95556CDB-A430-48AE-9301-2C752AAE9E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95556CDB-A430-48AE-9301-2C752AAE9E1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5533B04B-5B85-416F-876B-B238E000F655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5533B04B-5B85-416F-876B-B238E000F655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5533B04B-5B85-416F-876B-B238E000F655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5533B04B-5B85-416F-876B-B238E000F655}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F0AA8EC-C879-47DC-89F6-5618C449E9BC}
+	EndGlobalSection
+EndGlobal

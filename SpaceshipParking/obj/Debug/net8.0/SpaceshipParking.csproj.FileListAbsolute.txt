@@ -1,0 +1,11 @@
+C:\Users\GCCha\source\repos\SpaceshipParking\bin\Debug\net8.0\SpaceshipParking.deps.json
+C:\Users\GCCha\source\repos\SpaceshipParking\bin\Debug\net8.0\SpaceshipParking.dll
+C:\Users\GCCha\source\repos\SpaceshipParking\bin\Debug\net8.0\SpaceshipParking.pdb
+C:\Users\GCCha\source\repos\SpaceshipParking\obj\Debug\net8.0\SpaceshipParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GCCha\source\repos\SpaceshipParking\obj\Debug\net8.0\SpaceshipParking.AssemblyInfoInputs.cache
+C:\Users\GCCha\source\repos\SpaceshipParking\obj\Debug\net8.0\SpaceshipParking.AssemblyInfo.cs
+C:\Users\GCCha\source\repos\SpaceshipParking\obj\Debug\net8.0\SpaceshipParking.csproj.CoreCompileInputs.cache
+C:\Users\GCCha\source\repos\SpaceshipParking\obj\Debug\net8.0\SpaceshipParking.dll
+C:\Users\GCCha\source\repos\SpaceshipParking\obj\Debug\net8.0\refint\SpaceshipParking.dll
+C:\Users\GCCha\source\repos\SpaceshipParking\obj\Debug\net8.0\SpaceshipParking.pdb
+C:\Users\GCCha\source\repos\SpaceshipParking\obj\Debug\net8.0\ref\SpaceshipParking.dll
